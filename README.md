@@ -1,4 +1,4 @@
-# React Memory Game
+# Memory Card Game by React.js
 Memory Game with React + Express + Sqlite3
 
 ### Features
