@@ -7,6 +7,10 @@ Memory Game with React + Express + Sqlite3
 - Single / Multi player
 - Save highscore and listing
 
+### Download
+
+    git clone https://github.com/tetris-dev-web/memory-card-game.git
+
 ### Install
 
     npm install
